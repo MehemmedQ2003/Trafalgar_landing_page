@@ -1,0 +1,18 @@
+.commonDiv{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.commonDiv h1{
+    font-size: 140px;
+}
+
+header nav a:hover{
+    background-color: #c5c5c5;
+}
+
+section .container .row .card a:hover{
+    background-color: #c5c5c5;
+    border: none;
+}
